@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Jaglan</h1>
-<h3 align="center">Data analyst from India</h3>
+<h3 align="center">Data Analyst from India</h3>
 
 - 🔭 I’m currently working on **Python**
 
